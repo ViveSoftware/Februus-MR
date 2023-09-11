@@ -1,5 +1,5 @@
 # Februus-MR
-Copyright 2023, HTC Corporation. All rights reserved.
+Copyright 2022-2023, HTC Corporation. All rights reserved.
 ## About
 Februus MR is an Unreal example for MR experience on VIVE XR Elite. It demonstrates MR applications such as gestures, interactions, and grabbing objects into MR. There are three experiences in the Demo:
 +	Minions interaction 
